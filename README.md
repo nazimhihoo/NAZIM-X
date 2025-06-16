@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">𝗞𝗛𝗔𝗡-𝗠𝗗</h1>
+  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">NAZIM-X</h1>
 </p>
 
 <p align="center">
@@ -16,12 +16,12 @@
 
 | Statistic | Badge |
 |-----------|-------|
-| **Profile Views** | <img src="https://komarev.com/ghpvc/?username=JawadTechXD&label=Profile+Views&color=9D00FF&style=flat-square"> |
-| **Last Update** | <img src="https://img.shields.io/github/last-commit/JawadTechXD/KHAN-MD?color=9D00FF&label=Last+Update&style=flat-square"> |
-| **Repo Size** | <img src="https://img.shields.io/github/repo-size/JawadTechXD/KHAN-MD?color=9D00FF&label=Repo+Size&style=flat-square"> |
-| **Stars** | <img src="https://img.shields.io/github/stars/JawadTechXD/KHAN-MD?color=9D00FF&label=Stars&style=flat-square"> |
-| **Forks** | <img src="https://img.shields.io/github/forks/JawadTechXD/KHAN-MD?color=9D00FF&label=Forks&style=flat-square"> |
-| **Visitors** | <img src="https://visitor-badge.laobi.icu/badge?page_id=JawadTechXD.KHAN-MD&style=flat-square&color=9D00FF"> | 
+| **Profile Views** | <img src="https://komarev.com/ghpvc/?username=nazimhihoo&label=Profile+Views&color=9D00FF&style=flat-square"> |
+| **Last Update** | <img src="https://img.shields.io/github/last-commit/nazimhihoo/NAZIM-X?color=9D00FF&label=Last+Update&style=flat-square"> |
+| **Repo Size** | <img src="https://img.shields.io/github/repo-size/nazimhihoo/NAZIM-X?color=9D00FF&label=Repo+Size&style=flat-square"> |
+| **Stars** | <img src="https://img.shields.io/github/stars/nazimhihoo/NAZIM-X?color=9D00FF&label=Stars&style=flat-square"> |
+| **Forks** | <img src="https://img.shields.io/github/forks/nazimhihoo/NAZIM-X?color=9D00FF&label=Forks&style=flat-square"> |
+| **Visitors** | <img src="https://visitor-badge.laobi.icu/badge?page_id=nazimhihoo.NAZIM-X&style=flat-square&color=9D00FF"> | 
 | **Maintained** | <img src="https://img.shields.io/badge/Maintained-Yes-00C853?style=flat-square"> |
 | **Version** | <img src="https://img.shields.io/badge/Version-1.0.0-0D47A1?style=flat-square"> |
 
@@ -33,29 +33,29 @@
 
 ---
 
-## Support JawadTechXD
+## Support NAZIM-X
 
 <p align="center">
-  <a href="https://github.com/JawadTechXD">
-    <img src="https://img.shields.io/badge/_Follow_Us_Now-Jawad_TechX-9D00FF?style=for-the-badge&logo=follow" alt="Follow Badge" width="300">
+  <a href="https://github.com/nazimhihoo">
+    <img src="https://img.shields.io/badge/_Follow_Us_Now-Nazim_X-9D00FF?style=for-the-badge&logo=follow" alt="Follow Badge" width="300">
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://cdn.ironman.my.id/i/9zd4if.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://files.catbox.moe/fhk2br.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="400" style="border-radius: 20px; box-shadow: 0 0 25px #0088ff;"/>
+  <img src="https://files.catbox.moe/fhk2br.jpg" width="400" style="border-radius: 20px; box-shadow: 0 0 25px #0088ff;"/>
 </div>
 
 <div align="center">
-  <img src="https://github.com/JawadTechXD/KHAN-MD/blob/main/assets/divider.gif?raw=true" width="100%"/>
+  <img src="https://github.com/nazimhihoo/NAZIM-X/blob/main/assets/divider.gif?raw=true" width="100%"/>
 </div>
 <div align="center">
-  <img src="https://github.com/JawadTechXD/KHAN-MD/blob/main/assets/deployheader.gif?raw=true" width="80%"/>
+  <img src="https://github.com/nazimhihoo/NAZIM-X/blob/main/assets/deployheader.gif?raw=true" width="80%"/>
 </div>
 
 ## 🛰️ Deployment Steps
@@ -64,7 +64,7 @@
     
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
   <p style="color: #00ffff;">First star & Fork repo using button Below</p>
-  <a href='https://github.com/JawadTechXD/KHAN-MD/fork' target="_blank">
+  <a href='https://github.com/nazimhihoo/NAZIM-X/fork' target="_blank">
     <img src='https://img.shields.io/badge/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
   </a>
 </div>
@@ -114,7 +114,7 @@
     </tr>
     <tr>
       <td>Heroku</td>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/JawadTechXD/KHAN-MD"><img src="https://img.shields.io/badge/Deploy_to-Heroku-430098?style=for-the-badge&logo=heroku"></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/nazimhihoo/NAZIM-X"><img src="https://img.shields.io/badge/Deploy_to-Heroku-430098?style=for-the-badge&logo=heroku"></a></td>
     </tr>
     <tr>
       <td>Koyeb</td>
@@ -188,7 +188,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/JawadTechXD/KHAN-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
+  <img src="https://github.com/nazimhihoo/NAZIM-X/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
 ## 👑 KHAN STATUS
@@ -200,7 +200,7 @@
 ```
 
 <div align="center">
-  <img src="https://github.com/JawadTechXD/KHAN-MD/blob/main/assets/endwave.gif?raw=true" width="100%"/>
+  <img src="https://github.com/nazimhNAZIM-X/blob/main/assets/endwave.gif?raw=true" width="100%"/>
 </div>
 
   <h3> Thank you for visiting ❤️ </h3>
